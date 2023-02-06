@@ -1,3 +1,4 @@
+Jimmie Tyrrell
 Founder / Chief Builder @ subpixel
 
 [www.subpixel.net](https://www.subpixel.net)
