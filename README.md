@@ -1,14 +1,11 @@
-Jimmie Tyrrell
-Founder / Chief Builder @ subpixel
-
+**Jimmie Tyrrell** \
+Founder / Chief Builder @ subpixel \
 [www.subpixel.net](https://www.subpixel.net)
 
-Currently building SLIPSTREAM - a wildly asymmetric multiplayer game designed for Twitch streamers to engage with their audience in new and meaningful ways. 
-
+Currently building SLIPSTREAM - a wildly asymmetric multiplayer game designed for Twitch streamers to engage with their audience in new and meaningful ways. \
 [www.playslipstream.com](https://www.playslipstream.com)
 
-Checkout out my other game, Ready Set Goat!
-
+Checkout out my other game, Ready Set Goat! \
 [www.readysetgoat.com](https://www.readysetgoat.com)
 
 
