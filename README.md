@@ -5,6 +5,8 @@ Founder / Chief Builder @ subpixel \
 Currently building SLIPSTREAM - a wildly asymmetric multiplayer game designed for Twitch streamers to engage with their audience in new and meaningful ways. \
 [www.playslipstream.com](https://www.playslipstream.com)
 
+![Screen capture of Slipstream gameplay](https://www.playslipstream.com/videos/slipstream-preview-1b-6s-4mb.gif)
+
 Checkout out my other game, Ready Set Goat! \
 [www.readysetgoat.com](https://www.readysetgoat.com)
 
