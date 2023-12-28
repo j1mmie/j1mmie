@@ -1,0 +1,18 @@
+# 2023
+## Dec 28, 3:35pm
+
+First .plan entry on Github. I've maintained a .plan file for a few months now but much of the information is private. I've decided to start a public .plan file to keep track of my progress, help stay motivated, and share the progress of my projects (currently, mainly, Slipstream) with the community.
+
+Today I am continuing work to reorganize our database's datascheme so that it
+is easier to perform bulk operations on. To do that, I needed to rip out our
+previous Object Document Mapping (ODM) layer (Typesaurus). Typesaurus hasn't
+provided much benefit and has in fact hidden some functionality of Firestore.
+
+Firestore's default library is not much better however, so I had to write my
+own ORM, or ODM, or whatever, to make it easier to work with. Right now its
+called DocumentProxy, following the naming conventions of Firestore
+(DocumentReference, DocumentSnapshot, etc). It is not currently following the
+ActiveRecord design pattern, but I think it should eventually.
+
+The feature that spurred this reorg / refactor is the ability to award players
+with XP periodically, outside of battle.
