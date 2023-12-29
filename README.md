@@ -7,6 +7,8 @@ Currently building SLIPSTREAM - a wildly asymmetric multiplayer game designed fo
 
 ![Screen capture of Slipstream gameplay](https://www.playslipstream.com/videos/slipstream-preview-1b-6s-4mb.gif)
 
+**[j1mmie's .plan](.plan.md)** - my public .plan file, a journal which I update in realtime as I work on various projects
+
 Checkout out my other game, Ready Set Goat! \
 [www.readysetgoat.com](https://www.readysetgoat.com)
 
