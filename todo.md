@@ -12,4 +12,5 @@
 # Memory allocation improvements:
  - Avoid using UseSpriteMesh when sprite changes often
 
-TODO: Refactor SectorGrid.cs to cache neighboring dots and isolate dot-related logic
+TODO: Refactor SectorGrid.cs to cache neighboring dots and isolate dot-related logic. Create tasks for Alfredo
+
