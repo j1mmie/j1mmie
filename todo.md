@@ -13,3 +13,5 @@
  - Avoid using UseSpriteMesh when sprite changes often
 
 TODO: Refactor SectorGrid.cs to cache neighboring dots and isolate dot-related logic. Create tasks for Alfredo
+
+TODO: Add lowercase JSON serialize to cloud functions client
